@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Sachin%20Kumar&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Builder&descSize=18&descColor=8b949e&descAlignY=55"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+fintech+systems+%F0%9F%8F%A6;Architecting+cloud-native+solutions+on+AWS+%26+GCP+%E2%98%81%EF%B8%8F;Crafting+intelligent+AI+pipelines+%F0%9F%A4%96;5%2B+years+shipping+production+code+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=Building+scalable+fintech+systems+%F0%9F%8F%A6;Architecting+cloud-native+solutions+on+AWS+%26+GCP+%E2%98%81%EF%B8%8F;Crafting+intelligent+AI+pipelines+%F0%9F%A4%96;5%2B+years+shipping+production+code+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 ```typescript
 const sachin = {
-    location: "London, UK 🇬🇧",
+    location: "London, UK 🇬🇧, Bangalore, IN",
     role: "Full Stack Engineer @ Alterest (Fintech)",
     experience: "5+ years",
     focus: ["Cloud Architecture", "AI/ML Pipelines", "Full Stack Development"],
