@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk5072)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kmrschnio.github.io/portfolio-sk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar360.sachin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmrschn.io@gmail.com)
 [![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kmrschnio)
 [![Profile Views](https://komarev.com/ghpvc/?username=kmrschnio&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)](https://github.com/kmrschnio)
 
@@ -176,8 +176,8 @@ Collection of **LLM apps with AI Agents and RAG** using OpenAI, Anthropic, Gemin
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-kumar)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar360.sachin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk5072)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmrschn.io@gmail.com)
 
 </div>
 
